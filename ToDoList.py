@@ -64,7 +64,7 @@ def todo_list():
                 print("Task not found in the list.")
 
         elif choice == "5":
-            print("Exiting the program.")
+            print("Exit...")
             break
 
         else:
